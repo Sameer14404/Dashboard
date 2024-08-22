@@ -21,4 +21,4 @@ const UseGetData = () => {
   }, [dispatch]);  // Dependency array ensures dispatch is available
 };
 
-export default useGetData;
+export default UseGetData;
