@@ -4,8 +4,15 @@
 
 Welcome to the Widget Dashboard project! This application provides a comprehensive dashboard where users can manage widgets across various categories. With functionalities like searching, adding, and deleting widgets, this app is built with modern web technologies.
 
-**Live Demo:** [https://dashboard-ruby-eight-60.vercel.app/]
+![Picture](public/picture1.png)
+![Picture](public/picture2.png)
+![Picture](public/picture3.png)
 
+### Install Dependencies
+
+- npm install
+- npm run dev (to start a frontend server)
+- npm run server (to start a json/server)
 ## Technologies Used
 
 - **Frontend:** React, Redux Toolkit, Material-UI
@@ -50,11 +57,7 @@ Make sure you have the following installed on your machine:
 
 - Node.js and npm (Node Package Manager)
 
-### Install Dependencies
 
--npm install
--cd server
-npm install
 # Features
 - Search Widgets: Filter widgets in real-time using the search bar.
 - Add Widgets: Open a drawer to add new widgets to a category.
