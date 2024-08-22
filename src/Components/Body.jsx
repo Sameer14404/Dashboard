@@ -2,12 +2,12 @@ import { Box, Grid, Typography, CircularProgress, Button } from '@mui/material';
 import React, { useState } from 'react';
 import { useSelector } from 'react-redux';
 import WidgetCard from './WidgetCard';
-import useGetData from '../utils/UsegetData.js';
+import UseGetData from '../utils/useGetData.js';
 import AddWidgetDrawer from './Drawer'; // Import the AddWidgetDrawer
 import AddWidgetCard from './AddWidgetCard';
 
 const Body = () => {
-  useGetData();
+  UseGetData();
   const categories = useSelector((store) => store.BodyReducer.items);
   const searchTerm = useSelector((store) => store.BodyReducer.searchTerm);
   

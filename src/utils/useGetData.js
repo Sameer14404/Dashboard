@@ -3,7 +3,7 @@ import { useDispatch } from 'react-redux';
 import { callData } from './bodySlice';
 import axios from 'axios';
 
-const useGetData = () => {
+const UseGetData = () => {
   const dispatch = useDispatch();
 
   // Fetch data inside useEffect
