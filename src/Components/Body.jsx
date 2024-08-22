@@ -2,7 +2,7 @@ import { Box, Grid, Typography, CircularProgress, Button } from '@mui/material';
 import React, { useState } from 'react';
 import { useSelector } from 'react-redux';
 import WidgetCard from './WidgetCard';
-import useGetData from '../utils/UsegetData';
+import useGetData from '../utils/UsegetData.js';
 import AddWidgetDrawer from './Drawer'; // Import the AddWidgetDrawer
 import AddWidgetCard from './AddWidgetCard';
 

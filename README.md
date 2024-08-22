@@ -17,29 +17,29 @@ Welcome to the Widget Dashboard project! This application provides a comprehensi
 ## Folder Structure
 
 /widget-dashboard
-│
-├── /public
-│ └── index.html
-│
-├── /src
-│ ├── /components
-│ │ ├── AddWidgetDrawer.js
-│ │ ├── Body.js
-│ │ ├── CategoryComponent.js
-│ │ ├── Header.js
-│ │ ├── Holder.js
-│ │ └── WidgetCard.js
-│ │
-│ ├── /utils
-│ │ ├── bodySlice.js
-│ │ └── UsegetData.js
-│ │
-│ ├── App.js
-│ ├── index.js
-│ └── styles.css
-│
-├── package.json
-└── README.md
+- │
+- ├── /public
+- │ └── index.html
+- │
+- ├── /src
+- │ ├── /components
+- │ │ ├── AddWidgetDrawer.js
+- │ │ ├── Body.js
+- │ │ ├── CategoryComponent.js
+- │ │ ├── Header.js
+- │ │ ├── Holder.js
+- │ │ └── WidgetCard.js
+- │ │
+- │ ├── /utils
+- │ │ ├── bodySlice.js
+- │ │ └── UsegetData.js
+- │ │
+- │ ├── App.js
+- │ ├── index.js
+- │ └── styles.css
+- │
+- ├── package.json
+  └── README.md
 
 
 ## Getting Started
