@@ -5,7 +5,8 @@
 Welcome to the Widget Dashboard project! This application provides a comprehensive dashboard where users can manage widgets across various categories. With functionalities like searching, adding, and deleting widgets, this app is built with modern web technologies.
 
 ![Picture](public/picture1.png)
-
+![Picture](public/picture2.png)
+![Picture](public/picture3.png)
 
 ### Install  Dependencies
 
