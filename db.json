@@ -1,0 +1,77 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "CSPM Executive Dashboard",
+      "widgets": [
+        {
+          "id": "1",
+          "name": "System Performance",
+          "text": "Tracks the overall system performance metrics."
+        },
+        {
+          "id": "2",
+          "name": "Security Incidents",
+          "text": "Displays recent security incidents and their details."
+        },
+        {
+          "id": "3",
+          "name": "Compliance Status",
+          "text": "Shows the compliance status of various components."
+        },
+        {
+          "id": "4",
+          "name": "Operational Overview",
+          "text": "Provides a high-level view of operational metrics."
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Security Dashboard",
+      "widgets": [
+        {
+          "id": "5",
+          "name": "Threat Intelligence",
+          "text": "Information on emerging threats and vulnerabilities."
+        },
+        {
+          "id": "6",
+          "name": "Incident Response",
+          "text": "Tracks the response to security incidents."
+        },
+        {
+          "id": "7",
+          "name": "Vulnerability Assessment",
+          "text": "Displays the results of recent vulnerability assessments."
+        },
+        {
+          "id": "8",
+          "name": "Security Trends",
+          "text": "Shows trends and patterns in security data."
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Performance Monitoring Dashboard",
+      "widgets": [
+        {
+          "id": "9",
+          "name": "System Uptime",
+          "text": "Monitors system uptime and downtime."
+        },
+        {
+          "id": "11",
+          "name": "User Activity",
+          "text": "Shows metrics related to user activities."
+        },
+        {
+          "id": "12",
+          "name": "Error Logs",
+          "text": "Displays system error logs and their details."
+        }
+      ]
+    }
+  ]
+}
